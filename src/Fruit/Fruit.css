@@ -1,0 +1,27 @@
+.Fruit {
+    width: 300px;
+    margin: 16px auto;
+    border: 1px solid #eee;
+    box-shadow: 2px 2px #ccc;
+    text-align: center;
+}
+
+.Fruit > p {
+    display: inline-block;
+}
+
+.add {
+    margin: 16px auto;
+    border: 1px solid #eee;
+    box-shadow: 2px 2px #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.subtract {
+    margin: 16px auto;
+    border: 1px solid #eee;
+    box-shadow: 2px 2px #ccc;
+    padding: 10px;
+    text-align: center;
+}
